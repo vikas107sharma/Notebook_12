@@ -1,0 +1,27 @@
+.navbar {
+  position: fixed !important;
+  width: 100% !important;
+  color: black;
+  z-index: 20 !important;
+  padding: 20px;
+  background-color: #fff !important;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08) !important;
+}
+
+.logo {
+  color: #6C00FF !important;
+}
+
+.logo:hover {
+  color: #5c39c8 !important;
+}
+
+/* .dropdown:hover {
+  color: #fff !important;
+  background-color: rgb(138, 118, 199) !important;
+}
+
+.dropdown:focus {
+  color: #fff !important;
+  background-color: rgb(138, 118, 199) !important;
+} */
